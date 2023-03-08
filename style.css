@@ -1,0 +1,71 @@
+body {
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: center;
+}
+
+#hero {
+
+    width: 592px;
+    margin: 0 auto 72px}
+
+#hero img {
+margin-bottom: 72px;
+
+}
+
+h1 {
+    
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 49px;
+    line-height: 56px;
+    margin-bottom: 32px;
+}
+
+h1 span {
+font-weight: bold;
+
+}
+
+
+span {
+    color: #FF9900;
+}
+
+p {
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+a {
+    color: #FF9900;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+#footer a + a  {
+    margin-left: 28px;
+
+}
+
+.line {
+    width: 568px;
+    height: 0;
+
+    border: 1px #ECEFF2 solid;
+    margin: 0 auto 8px;
+
+}
+
+#balls {
+
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
